@@ -1,0 +1,471 @@
+[
+  {
+    "text": "LangGraph:",
+    "startMs": 610,
+    "endMs": 1290,
+    "timestampMs": 610,
+    "confidence": 0.38502
+  },
+  {
+    "text": " agentes",
+    "startMs": 1350,
+    "endMs": 1750,
+    "timestampMs": 1350,
+    "confidence": 0.983445
+  },
+  {
+    "text": " de",
+    "startMs": 1750,
+    "endMs": 1930,
+    "timestampMs": 1750,
+    "confidence": 0.998586
+  },
+  {
+    "text": " inteligencia",
+    "startMs": 1930,
+    "endMs": 2790,
+    "timestampMs": 1930,
+    "confidence": 0.843054
+  },
+  {
+    "text": " artificial",
+    "startMs": 2790,
+    "endMs": 3230,
+    "timestampMs": 2790,
+    "confidence": 0.993105
+  },
+  {
+    "text": " como",
+    "startMs": 3230,
+    "endMs": 3470,
+    "timestampMs": 3230,
+    "confidence": 0.883605
+  },
+  {
+    "text": " grafos.",
+    "startMs": 3470,
+    "endMs": 3970,
+    "timestampMs": 3470,
+    "confidence": 0.909511
+  },
+  {
+    "text": " Las",
+    "startMs": 5070,
+    "endMs": 5250,
+    "timestampMs": 5070,
+    "confidence": 0.992256
+  },
+  {
+    "text": " cadenas",
+    "startMs": 5250,
+    "endMs": 5670,
+    "timestampMs": 5250,
+    "confidence": 0.994446
+  },
+  {
+    "text": " lineales",
+    "startMs": 5670,
+    "endMs": 6290,
+    "timestampMs": 5670,
+    "confidence": 0.98287
+  },
+  {
+    "text": " no",
+    "startMs": 6390,
+    "endMs": 6650,
+    "timestampMs": 6390,
+    "confidence": 0.96725
+  },
+  {
+    "text": " pueden",
+    "startMs": 6750,
+    "endMs": 6990,
+    "timestampMs": 6750,
+    "confidence": 0.997352
+  },
+  {
+    "text": " repetir",
+    "startMs": 6990,
+    "endMs": 7350,
+    "timestampMs": 6990,
+    "confidence": 0.990516
+  },
+  {
+    "text": " ni",
+    "startMs": 7350,
+    "endMs": 7590,
+    "timestampMs": 7350,
+    "confidence": 0.983787
+  },
+  {
+    "text": " decidir.",
+    "startMs": 7590,
+    "endMs": 8150,
+    "timestampMs": 7590,
+    "confidence": 0.997141
+  },
+  {
+    "text": " En",
+    "startMs": 9070,
+    "endMs": 9170,
+    "timestampMs": 9070,
+    "confidence": 0.997516
+  },
+  {
+    "text": " un",
+    "startMs": 9170,
+    "endMs": 9350,
+    "timestampMs": 9170,
+    "confidence": 0.995364
+  },
+  {
+    "text": " grafo,",
+    "startMs": 9350,
+    "endMs": 9790,
+    "timestampMs": 9350,
+    "confidence": 0.937879
+  },
+  {
+    "text": " los",
+    "startMs": 9850,
+    "endMs": 10030,
+    "timestampMs": 9850,
+    "confidence": 0.997501
+  },
+  {
+    "text": " nodos",
+    "startMs": 10030,
+    "endMs": 10330,
+    "timestampMs": 10030,
+    "confidence": 0.988316
+  },
+  {
+    "text": " son",
+    "startMs": 10330,
+    "endMs": 10510,
+    "timestampMs": 10330,
+    "confidence": 0.998072
+  },
+  {
+    "text": " funciones",
+    "startMs": 10510,
+    "endMs": 11030,
+    "timestampMs": 10510,
+    "confidence": 0.994738
+  },
+  {
+    "text": " que",
+    "startMs": 11030,
+    "endMs": 11190,
+    "timestampMs": 11030,
+    "confidence": 0.998479
+  },
+  {
+    "text": " modifican",
+    "startMs": 11190,
+    "endMs": 11690,
+    "timestampMs": 11190,
+    "confidence": 0.998957
+  },
+  {
+    "text": " el",
+    "startMs": 11690,
+    "endMs": 11950,
+    "timestampMs": 11690,
+    "confidence": 0.995038
+  },
+  {
+    "text": " estado,",
+    "startMs": 12030,
+    "endMs": 12530,
+    "timestampMs": 12030,
+    "confidence": 0.85359
+  },
+  {
+    "text": " y",
+    "startMs": 12610,
+    "endMs": 12770,
+    "timestampMs": 12610,
+    "confidence": 0.950623
+  },
+  {
+    "text": " las",
+    "startMs": 12770,
+    "endMs": 12910,
+    "timestampMs": 12770,
+    "confidence": 0.982769
+  },
+  {
+    "text": " aristas",
+    "startMs": 12910,
+    "endMs": 13470,
+    "timestampMs": 12910,
+    "confidence": 0.916758
+  },
+  {
+    "text": " definen",
+    "startMs": 13590,
+    "endMs": 13870,
+    "timestampMs": 13590,
+    "confidence": 0.95754
+  },
+  {
+    "text": " el",
+    "startMs": 13870,
+    "endMs": 14050,
+    "timestampMs": 13870,
+    "confidence": 0.965099
+  },
+  {
+    "text": " flujo",
+    "startMs": 14050,
+    "endMs": 14410,
+    "timestampMs": 14050,
+    "confidence": 0.974661
+  },
+  {
+    "text": " entre",
+    "startMs": 14410,
+    "endMs": 14750,
+    "timestampMs": 14410,
+    "confidence": 0.999497
+  },
+  {
+    "text": " ellos.",
+    "startMs": 14750,
+    "endMs": 15190,
+    "timestampMs": 14750,
+    "confidence": 0.99854
+  },
+  {
+    "text": " Con",
+    "startMs": 16110,
+    "endMs": 16250,
+    "timestampMs": 16110,
+    "confidence": 0.994939
+  },
+  {
+    "text": " aristas",
+    "startMs": 16250,
+    "endMs": 16730,
+    "timestampMs": 16250,
+    "confidence": 0.958618
+  },
+  {
+    "text": " condicionales,",
+    "startMs": 16730,
+    "endMs": 17630,
+    "timestampMs": 16730,
+    "confidence": 0.979432
+  },
+  {
+    "text": " el",
+    "startMs": 17670,
+    "endMs": 17830,
+    "timestampMs": 17670,
+    "confidence": 0.99606
+  },
+  {
+    "text": " agente",
+    "startMs": 17830,
+    "endMs": 18230,
+    "timestampMs": 17830,
+    "confidence": 0.971352
+  },
+  {
+    "text": " razona,",
+    "startMs": 18230,
+    "endMs": 18730,
+    "timestampMs": 18230,
+    "confidence": 0.49629
+  },
+  {
+    "text": " usa",
+    "startMs": 19070,
+    "endMs": 19250,
+    "timestampMs": 19070,
+    "confidence": 0.989413
+  },
+  {
+    "text": " una",
+    "startMs": 19250,
+    "endMs": 19530,
+    "timestampMs": 19250,
+    "confidence": 0.99771
+  },
+  {
+    "text": " herramienta",
+    "startMs": 19530,
+    "endMs": 19990,
+    "timestampMs": 19530,
+    "confidence": 0.99802
+  },
+  {
+    "text": " y",
+    "startMs": 19990,
+    "endMs": 20190,
+    "timestampMs": 19990,
+    "confidence": 0.978528
+  },
+  {
+    "text": " vuelve",
+    "startMs": 20190,
+    "endMs": 20450,
+    "timestampMs": 20190,
+    "confidence": 0.997712
+  },
+  {
+    "text": " a",
+    "startMs": 20450,
+    "endMs": 20510,
+    "timestampMs": 20450,
+    "confidence": 0.988874
+  },
+  {
+    "text": " razonar.",
+    "startMs": 20490,
+    "endMs": 21050,
+    "timestampMs": 20490,
+    "confidence": 0.98034
+  },
+  {
+    "text": " Memoria,",
+    "startMs": 22090,
+    "endMs": 22650,
+    "timestampMs": 22090,
+    "confidence": 0.960276
+  },
+  {
+    "text": " checkpoints",
+    "startMs": 22650,
+    "endMs": 23190,
+    "timestampMs": 22650,
+    "confidence": 0.908422
+  },
+  {
+    "text": " y",
+    "startMs": 23190,
+    "endMs": 23410,
+    "timestampMs": 23190,
+    "confidence": 0.875015
+  },
+  {
+    "text": " humano",
+    "startMs": 23430,
+    "endMs": 23610,
+    "timestampMs": 23430,
+    "confidence": 0.967538
+  },
+  {
+    "text": " en",
+    "startMs": 23610,
+    "endMs": 23710,
+    "timestampMs": 23610,
+    "confidence": 0.9969
+  },
+  {
+    "text": " el",
+    "startMs": 23710,
+    "endMs": 23850,
+    "timestampMs": 23710,
+    "confidence": 0.86009
+  },
+  {
+    "text": " loop:",
+    "startMs": 23850,
+    "endMs": 24230,
+    "timestampMs": 23850,
+    "confidence": 0.292362
+  },
+  {
+    "text": " persistencia",
+    "startMs": 24390,
+    "endMs": 25010,
+    "timestampMs": 24390,
+    "confidence": 0.364538
+  },
+  {
+    "text": " y",
+    "startMs": 25010,
+    "endMs": 25230,
+    "timestampMs": 25010,
+    "confidence": 0.994981
+  },
+  {
+    "text": " control.",
+    "startMs": 25370,
+    "endMs": 25930,
+    "timestampMs": 25370,
+    "confidence": 0.999312
+  },
+  {
+    "text": " Construye",
+    "startMs": 26890,
+    "endMs": 27350,
+    "timestampMs": 26890,
+    "confidence": 0.678896
+  },
+  {
+    "text": " agentes",
+    "startMs": 27350,
+    "endMs": 27810,
+    "timestampMs": 27350,
+    "confidence": 0.813624
+  },
+  {
+    "text": " que",
+    "startMs": 27810,
+    "endMs": 27950,
+    "timestampMs": 27810,
+    "confidence": 0.994949
+  },
+  {
+    "text": " razonan",
+    "startMs": 27950,
+    "endMs": 28390,
+    "timestampMs": 27950,
+    "confidence": 0.948265
+  },
+  {
+    "text": " en",
+    "startMs": 28390,
+    "endMs": 28530,
+    "timestampMs": 28390,
+    "confidence": 0.951562
+  },
+  {
+    "text": " bucle.",
+    "startMs": 28530,
+    "endMs": 28970,
+    "timestampMs": 28530,
+    "confidence": 0.531854
+  },
+  {
+    "text": " Instala",
+    "startMs": 29330,
+    "endMs": 29670,
+    "timestampMs": 29330,
+    "confidence": 0.751136
+  },
+  {
+    "text": " langgraph",
+    "startMs": 29670,
+    "endMs": 30170,
+    "timestampMs": 29670,
+    "confidence": 0.245034
+  },
+  {
+    "text": " y",
+    "startMs": 30170,
+    "endMs": 30390,
+    "timestampMs": 30170,
+    "confidence": 0.98292
+  },
+  {
+    "text": " empieza.",
+    "startMs": 30550,
+    "endMs": 31110,
+    "timestampMs": 30550,
+    "confidence": 0.991841
+  }
+]

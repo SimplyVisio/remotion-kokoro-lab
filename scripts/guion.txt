@@ -1,0 +1,11 @@
+LangGraph: agentes de inteligencia artificial como grafos.
+
+Las cadenas lineales no pueden repetir ni decidir.
+
+En un grafo, los nodos son funciones que modifican el estado, y las aristas definen el flujo entre ellos.
+
+Con aristas condicionales, el agente razona, usa una herramienta y vuelve a razonar.
+
+Memoria, checkpoints y humano en el loop: persistencia y control.
+
+Construye agentes que razonan en bucle. Instala langgraph y empieza.
