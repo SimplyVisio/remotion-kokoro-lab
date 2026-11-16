@@ -1,0 +1,56 @@
+{
+  "audioFile": "narracion.wav",
+  "sampleRate": 24000,
+  "voice": "ef_dora",
+  "totalMs": 31850,
+  "sections": [
+    {
+      "index": 0,
+      "text": "LangGraph: agentes de inteligencia artificial como grafos.",
+      "narrationStartMs": 400,
+      "narrationEndMs": 4125,
+      "sceneStartMs": 0,
+      "sceneEndMs": 4500
+    },
+    {
+      "index": 1,
+      "text": "Las cadenas lineales no pueden repetir ni decidir.",
+      "narrationStartMs": 4875,
+      "narrationEndMs": 8200,
+      "sceneStartMs": 4500,
+      "sceneEndMs": 8575
+    },
+    {
+      "index": 2,
+      "text": "En un grafo, los nodos son funciones que modifican el estado, y las aristas definen el flujo entre ellos.",
+      "narrationStartMs": 8950,
+      "narrationEndMs": 15200,
+      "sceneStartMs": 8575,
+      "sceneEndMs": 15575
+    },
+    {
+      "index": 3,
+      "text": "Con aristas condicionales, el agente razona, usa una herramienta y vuelve a razonar.",
+      "narrationStartMs": 15950,
+      "narrationEndMs": 21200,
+      "sceneStartMs": 15575,
+      "sceneEndMs": 21575
+    },
+    {
+      "index": 4,
+      "text": "Memoria, checkpoints y humano en el loop: persistencia y control.",
+      "narrationStartMs": 21950,
+      "narrationEndMs": 25875,
+      "sceneStartMs": 21575,
+      "sceneEndMs": 26250
+    },
+    {
+      "index": 5,
+      "text": "Construye agentes que razonan en bucle. Instala langgraph y empieza.",
+      "narrationStartMs": 26625,
+      "narrationEndMs": 31050,
+      "sceneStartMs": 26250,
+      "sceneEndMs": 31850
+    }
+  ]
+}

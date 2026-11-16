@@ -1,15 +1,21 @@
 {
-  "name": "remotion_demo",
+  "name": "remotion-kokoro-lab",
   "version": "1.0.0",
-  "description": "My Remotion video",
-  "repository": {},
+  "description": "Narrated Remotion videos with Kokoro TTS and Whisper captions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimplyVisio/remotion-kokoro-lab.git"
+  },
   "license": "UNLICENSED",
   "engines": {
     "node": "^20.19.0 || ^22.13.0 || >=24"
   },
   "private": true,
   "dependencies": {
+    "@remotion/captions": "4.0.543",
     "@remotion/cli": "4.0.543",
+    "@remotion/install-whisper-cpp": "4.0.543",
+    "@remotion/media-utils": "4.0.543",
     "react": "19.3.1",
     "react-dom": "19.3.1",
     "remotion": "4.0.543"
@@ -25,8 +31,10 @@
   "scripts": {
     "dev": "remotion studio",
     "build": "remotion bundle",
+    "render": "remotion render LangGraphExplainer out/langgraph.mp4",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "build:audio": ". .venv-tts/bin/activate && python scripts/tts.py \"$(cat scripts/guion.txt)\" public/narracion.wav && node scripts/transcribe.mjs"
   },
   "allowScripts": {
     "esbuild": false
