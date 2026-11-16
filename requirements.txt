@@ -1,0 +1,7 @@
+# CPU wheels avoid downloading the large CUDA runtime on machines without a GPU.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+kokoro==0.9.4
+numpy==2.5.5
+soundfile==0.14.0
+torch==2.15.0

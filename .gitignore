@@ -1,7 +1,27 @@
-node_modules
-dist
-.DS_Store
-.env
+node_modules/
+dist/
+build/
+out/
+.remotion/
+coverage/
 
-# Ignore the output video from Git but not videos you import into src/.
-out
+# Local Python environment and Whisper checkout
+.venv-tts/
+whisper.cpp/
+__pycache__/
+*.py[cod]
+
+# Generated or temporary audio files
+public/*.raw.wav
+public/narracion-16k.wav
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+tmp.json
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.tsbuildinfo
